@@ -1,6 +1,6 @@
 #Fatto da saalamon
 #Questa modalità è solo per EDUCAZIONE
-#Trovi l'ultima versione a 
+#Trovi l'ultima versione a https://github.com/Mrexplo-ctrl/DM.FLOODER/tree/main
 import discord
 from discord.ext import commands
 import asyncio
