@@ -1,6 +1,6 @@
 #Fatto da saalamon
 #Questa modalità è solo per EDUCAZIONE
-#Trovi l'ultima versione a SOON
+#Trovi l'ultima versione a 
 import discord
 from discord.ext import commands
 import asyncio
